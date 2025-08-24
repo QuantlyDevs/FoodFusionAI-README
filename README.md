@@ -7,8 +7,8 @@ Generate complete weekly meal plans with recipes and shopping lists in just 60 s
 
 ## 🚀 Quick Links
 
-- **[🎯 Landing Page](https:/foodfusionai.de)** - Learn more about features
-- **[📱 Web App](https:/app.foodfusionai.de)** - Start planning your meals now
+- **[🎯 Landing Page](https://foodfusionai.de)** - Learn more about features
+- **[📱 Web App](https://app.foodfusionai.de)** - Start planning your meals now
 
 ---
 
